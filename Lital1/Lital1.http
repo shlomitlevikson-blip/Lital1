@@ -1,0 +1,6 @@
+@Lital1_HostAddress = http://localhost:5025
+
+GET {{Lital1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

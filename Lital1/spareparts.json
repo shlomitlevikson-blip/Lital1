@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "partCode": "000535HTC",
+    "partName": "שמן מנוע 5W-30 5L",
+    "price": 351.31,
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "partCode": "12728",
+    "partName": "מח שמן א.ג'מפי",
+    "price": 446.91,
+    "isAvailable": true
+  },
+  {
+    "id": 3,
+    "partCode": "12740",
+    "partName": "מח שמן א.ברלינגו DW8",
+    "price": 18.96,
+    "isAvailable": true
+  },
+  {
+    "id": 4,
+    "partCode": "12747",
+    "partName": "מח שמן פולי ג'מפי3##",
+    "price": 362.8,
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "partCode": "12755",
+    "partName": "מח שמן א.נמו 13D",
+    "price": 268.14,
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "partCode": "13702",
+    "partName": "גומי מכסה עליון ברלינגו",
+    "price": 34.68,
+    "isAvailable": true
+  },
+  {
+    "id": 7,
+    "partCode": "13704",
+    "partName": "פקק פלסטיק עליון ל-013705",
+    "price": 47.07,
+    "isAvailable": true
+  },
+  {
+    "id": 8,
+    "partCode": "13711",
+    "partName": "תפס פלסטיק עליון קסרה",
+    "price": 21.12,
+    "isAvailable": true
+  },
+  {
+    "id": 9,
+    "partCode": "13722",
+    "partName": "פלסטיק עליון קסר HDI",
+    "price": 567.45,
+    "isAvailable": true
+  },
+  {
+    "id": 10,
+    "partCode": "0137C6",
+    "partName": "גומיה מכסה עליון ברלינגו",
+    "price": 63.61,
+    "isAvailable": true
+  },
+  {
+    "id": 11,
+    "partCode": "0137F4",
+    "partName": "תפס פלסטיק עליון פיקסוC3",
+    "price": 11.04,
+    "isAvailable": true
+  },
+  {
+    "id": 12,
+    "partCode": "0137F6",
+    "partName": "תפס פלסטיק עליון קסרה",
+    "price": 60.43,
+    "isAvailable": true
+  },
+  {
+    "id": 13,
+    "partCode": "0137H3",
+    "partName": "פלסטיק עליון 308",
+    "price": 1628.7,
+    "isAvailable": true
+  },
+  {
+    "id": 14,
+    "partCode": "15708",
+    "partName": "שיבה צינור שמון ברל",
+    "price": 49.38,
+    "isAvailable": true
+  },
+  {
+    "id": 15,
+    "partCode": "15714",
+    "partName": "שיבה צינור דלק ברלינגו",
+    "price": 38.22,
+    "isAvailable": true
+  },
+  {
+    "id": 16,
+    "partCode": "16216",
+    "partName": "מתז שמן בוקסר DJ5",
+    "price": 85.37,
+    "isAvailable": true
+  },
+  {
+    "id": 17,
+    "partCode": "16353",
+    "partName": "פקק בלוק 306 +מצנן",
+    "price": 75.44,
+    "isAvailable": true
+  },
+  {
+    "id": 18,
+    "partCode": "16393",
+    "partName": "פקק קרטר 16ממ",
+    "price": 39.61,
+    "isAvailable": true
+  },
+  {
+    "id": 19,
+    "partCode": "16430",
+    "partName": "שייבה קרטר 16ממ @@",
+    "price": 16.82,
+    "isAvailable": true
+  },
+  {
+    "id": 20,
+    "partCode": "016430J",
+    "partName": "שייבה קרטר 16 ממ",
+    "price": 2.61,
+    "isAvailable": true
+  },
+  {
+    "id": 21,
+    "partCode": "16456",
+    "partName": "שייבה לפקק  016353",
+    "price": 36.85,
+    "isAvailable": true
+  },
+  {
+    "id": 22,
+    "partCode": "16782",
+    "partName": "פקק קרנק 25מ ברל-2",
+    "price": 27.93,
+    "isAvailable": true
+  },
+  {
+    "id": 23,
+    "partCode": "0197G6",
+    "partName": "שלייף 405 I ללא",
+    "price": 712.4,
+    "isAvailable": true
+  },
+  {
+    "id": 24,
+    "partCode": "0197H4",
+    "partName": "שלייף D 405 ללא",
+    "price": 1144.21,
+    "isAvailable": true
+  },
+  {
+    "id": 25,
+    "partCode": "0197T6",
+    "partName": "שלייף בוקסר DJ5",
+    "price": 1218.47,
+    "isAvailable": true
+  },
+  {
+    "id": 26,
+    "partCode": "0197W3",
+    "partName": "שלייף בוקסר DJ5TED D",
+    "price": 805.93,
+    "isAvailable": true
+  },
+  {
+    "id": 27,
+    "partCode": "20474",
+    "partName": "בורג ראש בוקסרDJ5T D_-12",
+    "price": 92.46,
+    "isAvailable": true
+  },
+  {
+    "id": 28,
+    "partCode": "20475",
+    "partName": "בורג ראש בוקסר10 DJ5-DJ5T",
+    "price": 68.99,
+    "isAvailable": true
+  },
+  {
+    "id": 29,
+    "partCode": "20488",
+    "partName": "בורג ראש בוקסר DJ5TED",
+    "price": 54.04,
+    "isAvailable": true
+  },
+  {
+    "id": 30,
+    "partCode": "20497",
+    "partName": "בורג ראש ברלינ DW8+XU",
+    "price": 72.71,
+    "isAvailable": true
+  },
+  {
+    "id": 31,
+    "partCode": "0204C1",
+    "partName": "בורג ראש פיקסוC4 טורבו",
+    "price": 799.24,
+    "isAvailable": true
+  },
+  {
+    "id": 32,
+    "partCode": "0204C4",
+    "partName": "בורג ראש TU5JP4 307",
+    "price": 22.37,
+    "isAvailable": true
+  },
+  {
+    "id": 33,
+    "partCode": "20543",
+    "partName": "מרווח מכסה שסתום X",
+    "price": 52.39,
+    "isAvailable": true
+  },
+  {
+    "id": 34,
+    "partCode": "20551",
+    "partName": "בורג ג'מפי שלה קמשפט",
+    "price": 11.21,
+    "isAvailable": true
+  },
+  {
+    "id": 35,
+    "partCode": "02090H",
+    "partName": "סתם ראש 607 2.2",
+    "price": 1059.18,
+    "isAvailable": true
+  },
+  {
+    "id": 36,
+    "partCode": "0209AC",
+    "partName": "סתם ראש C3 D",
+    "price": 1173.06,
+    "isAvailable": true
+  },
+  {
+    "id": 37,
+    "partCode": "0209AE",
+    "partName": "סתם ראש D C3",
+    "price": 466.31,
+    "isAvailable": true
+  },
+  {
+    "id": 38,
+    "partCode": "0209AG",
+    "partName": "סתם ראש D C3",
+    "price": 957.19,
+    "isAvailable": true
+  },
+  {
+    "id": 39,
+    "partCode": "0209AH",
+    "partName": "סתם ראש C3 1.45",
+    "price": 963.34,
+    "isAvailable": true
+  },
+  {
+    "id": 40,
+    "partCode": "0209AV",
+    "partName": "סתם ראש ג'מפי STD",
+    "price": 458.57,
+    "isAvailable": true
+  },
+  {
+    "id": 41,
+    "partCode": "0209AX",
+    "partName": "סתם ראש ג'מפי3 1.35",
+    "price": 729.61,
+    "isAvailable": true
+  },
+  {
+    "id": 42,
+    "partCode": "0209CC",
+    "partName": "סתם ראש ברל 1.30",
+    "price": 528.97,
+    "isAvailable": true
+  },
+  {
+    "id": 43,
+    "partCode": "0209CF",
+    "partName": "סתם ראש ברל 1.40",
+    "price": 761.52,
+    "isAvailable": true
+  },
+  {
+    "id": 44,
+    "partCode": "0209D2",
+    "partName": "סתם ראש XM שמ",
+    "price": 406.23,
+    "isAvailable": true
+  },
+  {
+    "id": 45,
+    "partCode": "0209D6",
+    "partName": "סתם ראש I 1400",
+    "price": 350.26,
+    "isAvailable": true
+  },
+  {
+    "id": 46,
+    "partCode": "0209E1",
+    "partName": "סתם ראש 405 16-18",
+    "price": 609.27,
+    "isAvailable": true
+  },
+  {
+    "id": 47,
+    "partCode": "0209EC",
+    "partName": "סתם ראש 107 1000CC",
+    "price": 642,
+    "isAvailable": true
+  },
+  {
+    "id": 48,
+    "partCode": "0209EH",
+    "partName": "סתם ראש בוקסר3 מנוע",
+    "price": 1227.84,
+    "isAvailable": true
+  },
+  {
+    "id": 49,
+    "partCode": "0209ET",
+    "partName": "סתם ראש בוקסר3 ",
+    "price": 1386.28,
+    "isAvailable": true
+  },
+  {
+    "id": 50,
+    "partCode": "0209EW",
+    "partName": "סתם ראש EP6 207",
+    "price": 898.82,
+    "isAvailable": true
+  }
+]
